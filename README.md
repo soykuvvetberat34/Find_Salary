@@ -1,5 +1,7 @@
 # Find_Salary
 find new employee salary
+
+
 ![Ekran görüntüsü 2024-07-18 234349](https://github.com/user-attachments/assets/8d68f05e-d5d0-482d-82f5-05f3bef73d62)
 
 ![Ekran görüntüsü 2024-07-18 234331](https://github.com/user-attachments/assets/9041a723-9086-4161-bc1c-148d23be88cc)
