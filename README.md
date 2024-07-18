@@ -1,6 +1,6 @@
 # Find_Salary
-find new employee salary
-
+# find new employee salary
+This model use some title level,seniortiy,point values and predict the salarys
 
 ![Ekran görüntüsü 2024-07-18 234349](https://github.com/user-attachments/assets/8d68f05e-d5d0-482d-82f5-05f3bef73d62)
 
