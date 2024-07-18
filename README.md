@@ -1,4 +1,3 @@
-# Find_Salary
 # find new employee salary
 This model use some title level,seniortiy,point values and predict the salarys
 
